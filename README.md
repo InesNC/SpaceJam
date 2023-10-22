@@ -31,8 +31,11 @@ java -jar SpaceJam.jar
 This project was developed as a group project in a week, by:
 
 Claudia Costa
+
 Claudio Fonseca
+
 Ines Croca
+
 Luis Santos 
 
 ## Support and Issues
