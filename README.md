@@ -26,6 +26,10 @@ Go on your command line, and enter the directory where the Jar is, then, execute
 java -jar SpaceJam.jar
 ```
 
+**To play**:
+
+Use the arrows of your keyboard to move MJ and push the ball to the adversaries' side. When you get there, you will be able to make a score, just push the space button on your keyboard when the target hits the right spot.
+
 ## Contributors
 
 This project was developed as a group project in a week, by:
